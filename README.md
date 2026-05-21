@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there, I am Bhisham 👋
+
+- 🎓 I’m BCA Graduate ...
+- 🤔 I’m looking for Job ...
+- 🌱 I’m currently learning & Making Cool Projects ...
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhisham-sahu-13)
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Laravel
+- Java
+- MySql
+- MS Office
+- VB.Net
 
 <!--
 **bhisham-sahu-13/bhisham-sahu-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

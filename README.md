@@ -1,11 +1,10 @@
-## Hi there, I am Bhisham 👋
+## Hi there, I am Bhisham Sahu👋
 ![Profile Views](https://komarev.com/ghpvc/?username=bhisham-sahu-13)
 
 - 🎓 I’m BCA Graduate ...
 - 🤔 I’m looking for Job ...
 - 🌱 I’m currently learning & Making Cool Projects ...
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhisham-sahu-13&show_icons=true)
-## Skills
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)## Skills
 - HTML
 - CSS
 - JavaScript
